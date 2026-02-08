@@ -21,7 +21,7 @@
 
 🚀 **A collection of powerful tools designed to kickstart Android ROM development and customization.** 🚀  
 
-**🔹 Beginner-friendly** – As a learner in Android ROM development, I've gathered tools along my journey to make them easily accessible for new developers.
+**🔹 Beginner-friendly** – As an enthusatic beginner in Android ROM development and customization, I've gathered tools along my journey to make them easily accessible for beginners.
 
 📁 **Get the Files from Releases:**  
 [🔗 Android Dev Tools Release](https://github.com/PROPGSP/Android-Tools/releases/tag/release)  
@@ -29,26 +29,8 @@
 
 ---
 
-## 🏆 **A Kind Request to Expert Android ROM Developers**  
-
-🙏 **Calling all experienced Android ROM developers!**  
-As a beginner in **Android ROM development**, I have collected some tools to make learning journey easier. But I know that there are **many more powerful tools** that experts like you use daily.  
-
-📢 **If you know any must-have tools that simplify ROM development, firmware extraction, kernel tweaking, or device tree modifications, kindly share them!**  
-Your knowledge can help **new developers** kickstart their journey more efficiently.  
-
----
-
-## 💡 **How You Can Contribute**  
-✔️ **Share the tools** you use for ROM development.  
-✔️ **Provide GitHub or download links** for open-source tools.  
-✔️ **Add a brief description** of how the tool helps in ROM customization.  
-
-Every suggestion **helps beginners** grow and explore **Android development** more effectively.  
-Your support makes the **Android ROM community** stronger! 💙  
-
-🔥 **Drop your favorite tools below** or **open a Pull Request** with new additions! 
-🔥 **Start an discussion in this repo** or **open an issue** and drop the tools to attcach
+ 
+As a beginner in **Android ROM development and customization**, I have collected some tools to that are required to extract the required blobs to build device tree from an ota update package.
 
 ---
 
@@ -64,7 +46,7 @@ Your support makes the **Android ROM community** stronger! 💙
 
 ## 🛠️ Usage Overview  
 Each tool contains a **README.md** inside its respective folder with **detailed usage instructions**.  
-Below is a **quick overview** for advanced users who prefer a **fast reference**.  
+Below is a **quick overview** for advanced users who prefer a **fast reference**.
 
 ---
 
